@@ -14,7 +14,7 @@ public class App
     
     public void newtestja()
     {
-    	System.out.println("Build javamerge sucessfully done");
+    	System.out.println("Build javamdffderge sucessfully done");
     }
 }
 
