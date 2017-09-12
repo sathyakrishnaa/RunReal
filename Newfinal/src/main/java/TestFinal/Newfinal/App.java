@@ -10,4 +10,12 @@ public class App
     {
         System.out.println( "Hello World!" );
     }
+    
+    
+    public void newtestja()
+    {
+    	System.out.println("Build javamerge sucessfully done");
+    }
 }
+
+
