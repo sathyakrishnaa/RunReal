@@ -38,6 +38,7 @@ public class AppTest
     public void newtest()
     {
     	System.out.println("Build 04/10 sucessfully done");
+        System.out.println("Build 04/10 from remote sucessfully done");
     }
     
     
