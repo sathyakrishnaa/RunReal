@@ -37,7 +37,7 @@ public class AppTest
     }
     public void newtest()
     {
-    	System.out.println("Build sucessfully done");
+    	System.out.println("Build 04/10 sucessfully done");
     }
     
     
